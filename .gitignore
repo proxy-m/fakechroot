@@ -28,7 +28,7 @@ Makefile.in
 *.lo
 *.o
 .deps/
-.libs/
+###.libs/
 /libtool
 /ltmain.sh
 
